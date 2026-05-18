@@ -76,6 +76,15 @@ The environment was designed and configured manually using AWS infrastructure co
 <img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/tomcat.png" alt="sudo caching">
 <img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/revshell.png" alt="sudo caching">
 
+<img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/WE1.png" alt="sudo caching">
+
+<img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/WE2.png" alt="sudo caching">
+
+<img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/WE3.png" alt="sudo caching">
+
+<img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/WE4.png" alt="sudo caching">
+
+<img src="https://github.com/Barbarossa01/AWS-Penetration-Testing-Lab/blob/main/img/WE5.png" alt="sudo caching">
 
 
 ## Privilege Escalation
